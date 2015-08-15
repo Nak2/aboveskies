@@ -66,7 +66,7 @@ function ENT:Think()
 	if (self.PT or 0)<SysTime() then
 		self.PT = SysTime()+2
 		if self.Team==2 or self.Team == 3 then
-			self.Power = math.min((self.Power or 0)+0.1,1)
+			self.Power = math.min((self.Power or 0)+0.03,1)
 			if self.Power>=1 then
 				self.Power = 0
 				self:Launch()
