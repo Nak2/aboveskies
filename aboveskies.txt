@@ -1,6 +1,6 @@
 "Gamemode"
  {
- 	"title"		"Air Battle"
+ 	"title"		"Above Skies"
  	"version"	"0.1" 
  	"up_date"	"01/08/2015" // The date this version was published. Set before release!
  
