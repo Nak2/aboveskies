@@ -6,7 +6,7 @@ The competition was held for 14 days .. however life got in the way and I only h
 I'll update/fix the gamemode on another branch, since this is used for the Competition.
 
 ## Usage
-While the gamemode is dynamic and will scan the given map .. it have only been tested on gm_flatgrass
+While the gamemode is dynamic and will scan the given map .. it have only been tested on gm_flatgrass.
 It is recommended to only use gm_flatgrass in this early version.
 
 ## License
