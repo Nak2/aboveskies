@@ -11,4 +11,5 @@ It is recommended to only use gm_flatgrass in this early version.
 
 ## License
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
-![alt tag](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
+
+![Image](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
