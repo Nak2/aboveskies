@@ -10,5 +10,5 @@ While the gamemode is dynamic and will scan the given map .. it have only been t
 It is recommended to only use gm_flatgrass in this early version.
 
 ## License
-![alt tag](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+![alt tag](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
