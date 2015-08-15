@@ -1,0 +1,25 @@
+"Gamemode"
+ {
+ 	"title"		"Air Battle"
+ 	"version"	"0.1" 
+ 	"up_date"	"01/08/2015" // The date this version was published. Set before release!
+ 
+ 	"author_name"	"Nak"
+ 	"author_email"	"Itsnonofyour@bususness.com"
+ 	"author_url"	""
+	"menusystem""1"
+
+	
+	"settings"
+	{
+		// TODO: put some settings here
+		1
+		{
+			"name"		"wh_maxpowerups"
+			"text"		"Max Powerups"
+			"help"		"Maximum powerups that can be spawned on the map"
+			"type"		"Numeric"
+			"default"	"5"
+		}
+	}
+  }
